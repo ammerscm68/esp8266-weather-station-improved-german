@@ -4,4 +4,4 @@ ESP8266 Weather Station Color using ILI9341 240x320 TFT display <br>
 https://github.com/ThingPulse/esp8266-weather-station-color <br>
 # New in this Version: <br>
 Settings (WiFi- and OpenweatherMap Access Data) with <br>
-CaptivePortal (WiFi-Manager)
+simple Captive Portal (WiFi-Manager)
