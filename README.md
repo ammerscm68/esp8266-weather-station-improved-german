@@ -1,3 +1,6 @@
-# ThingPulse ESP8266 Weather Station Color - improved and translate to German
-ESP8266 Weather-Station Color from THINGPULSE improved and translate to German <br>
+# ThingPulse ESP8266 Weather Station Color <br>
+# (improved and completely translate to German) <br><br> 
 ESP8266 Weather Station Color using ILI9341 240x320 TFT display
+New in this Version: 
+Settings (WiFi and OpenweatherMap Data) with <br>
+CaptivePortal (WiFi-Manager)
